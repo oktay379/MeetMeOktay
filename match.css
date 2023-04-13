@@ -1,0 +1,47 @@
+.body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.rounded-profile {
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+}
+
+.small-img-font {
+    font-size: 16px;
+}
+
+.font-color {
+    color: rgb(230, 230, 230);
+}
+
+.comment {
+    font-size: 15px;
+    opacity: 50%;
+}
+
+.btn {
+    text-decoration: none;
+    color: black;
+}
+
+.social {
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    border: 1px solid #aaabab;
+    text-decoration: none;    
+}
+
+.date {
+    opacity: 50%;
+    font-size: 15px;
+}
+
+
+.info {
+    font-size: 12px;
+    opacity: 65%;
+}
+
